@@ -6,7 +6,7 @@ If you discover a security vulnerability in **FlaskEmailOTP**, please report it 
 
 **Steps to report:**
 1. **Do not create a public issue** on GitHub for security vulnerabilities.
-2. Send a detailed report to the project maintainer's email: `your-email@example.com`.
+2. Send a detailed report to the project maintainer's email: `dineshdhamidn@gmaill.com`.
 3. Include the following information:
    - Detailed description of the vulnerability.
    - Steps to reproduce.
