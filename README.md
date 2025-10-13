@@ -1,6 +1,6 @@
 # 🔐 Flask Email OTP Verification
 
-A simple Flask application to implement **Email OTP (One-Time Password) verification**.  
+A simple Flask project to implement **Email OTP (One-Time Password) verification**.  
 This project allows users to verify their email addresses securely using OTPs sent via email.
 
 ---
@@ -19,14 +19,14 @@ This project allows users to verify their email addresses securely using OTPs se
 
 ```
 flask_email_otp/
-│── app.py              # Main Flask application
-│── templates/          # HTML templates
+│── app.py              
+│── templates/         
 │    ├── index.html
 │    ├── verify.html
-│── static/             # Static files (CSS, JS)
-│── venv/               # Virtual environment (not uploaded to GitHub)
-│── requirements.txt    # Project dependencies
-│── README.md           # Project documentation
+│── static/             
+│── venv/               
+│── requirements.txt    
+│── README.md           
 ```
 
 ---
